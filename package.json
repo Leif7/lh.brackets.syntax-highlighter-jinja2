@@ -1,0 +1,17 @@
+{
+    "name": "lh.brackets.syntax-highlighter-jinja2",
+    "title": "Jinja2 syntax highlighter",
+    "description": "Enables Jinja2 highlighting in Brackets.",
+    "homepage": "https://github.com/Leif7/lh.brackets.syntax-highlighter-jinja2",
+    "version": "1.0.0",
+    "author": {
+        "name": "Leif7",
+        "email": "<leifheppni@gmail.com>",
+        "url": "https://github.com/Leif7"
+    },
+    "license": "MIT",
+    "categories": "language",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
